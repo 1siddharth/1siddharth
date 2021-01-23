@@ -11,17 +11,6 @@ I'm Siddharth Rai ,currently enrolled in B.tech degree from SRM Institute of Sci
 
 [![Python Badge](https://img.shields.io/badge/-python-FFD43B?style=for-the-badge&labelColor=black&logo=python&logoColor=#4B8BBE)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Java Badge](https://img.shields.io/badge/-Java-5382a1?style=for-the-badge&labelColor=black&logo=java&logoColor=61DBFB)](#) [![C++ Badge](https://img.shields.io/badge/-C++-5382a1?style=for-the-badge&labelColor=black&logo=C&logoColor=61DBFB)](#)
 
-#### Coding Stats
-
-<!--START_SECTION:waka-->
-```text
-TypeScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-```
-<!--END_SECTION:waka-->
 
 #### Github Stats
 
