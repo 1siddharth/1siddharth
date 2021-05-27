@@ -6,6 +6,8 @@ I'm Siddharth Rai ,currently enrolled in B.tech degree from SRM Institute of Sci
 
 [![Twitter Badge](https://img.shields.io/badge/-@Siddharth3c51-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Siddharth3c51)](https://twitter.com/Siddharth3c51)  [![Linkedin Badge](https://img.shields.io/badge/-Siddharth-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-rai-2c51/) [![Mail Badge](https://img.shields.io/badge/-Siddharth-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/_.rai._.sid._) [![Mail Badge](https://img.shields.io/badge/-Siddharth-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:siddharth2c51@gmail.com)
 
+Or find my public key here:  http://keys.gnupg.net/pks/lookup?op=get&fingerprint=on&search=0xD2856631E4C6DCEE 
+
 #### Top Technologies
 
 
